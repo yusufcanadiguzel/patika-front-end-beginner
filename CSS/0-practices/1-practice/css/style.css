@@ -1,0 +1,21 @@
+h1 {
+    color: brown;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: chocolate;
+}
+
+body{
+    text-align: center;
+}
+
+ol, ul {
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+}
