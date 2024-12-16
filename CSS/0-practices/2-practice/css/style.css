@@ -1,0 +1,60 @@
+.search-container {
+    background-color: rgb(202, 200, 190);
+    padding-bottom: 10px;   
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.message {
+    width: 351px;
+    margin: auto;
+    text-align: center;
+}
+
+.textbox {
+    background-color: white;
+    width: 40%;
+    margin: 2px auto;
+    border-radius: 3px;
+}
+
+.button-container {
+    width: 230px;
+    margin: 5px auto;
+}
+
+.button {
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.special-searches {
+    background-color: aqua;
+    margin-right: 3px;
+}
+
+.help {
+    background-color: aquamarine;
+}
+
+.get-updates {
+    background-color: darkcyan;
+    margin-left: 3px;
+}
+
+.box{
+    width: 33%;
+    height: 100px;
+    float: left;
+    text-align: center;
+}
+
+.footer-text{
+    margin-top: 125px;
+    text-align: center;
+}
